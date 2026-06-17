@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class P2 {
+public class P02 {
     public static void main(String[] args) {
 
         //Age calculator

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class P7 {
+public class P07 {
     public static void main(String[] args) {
 
         //Bankking program1
